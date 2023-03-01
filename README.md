@@ -3,13 +3,13 @@
 <p align="center"> <img width="200px" heigth="500px" src="VoiceBotProject/images/voicebot_logo2.png">
 </p>
 
-## Demonstração da Ferramenta
+## Demonstração da Ferramenta (ligue o som)
 
-<p align=" center"><img alt="gif"  src="DeteccaodeAnomaliasporAudio/imagens/audio_anomaly_detection_demo.gif"/></p>
-![demo video](https://github.com/lizmarques/Virtual_Assistant_Project/blob/master/VoiceBotProject/videos/voicebot_demo.mp4)
+https://user-images.githubusercontent.com/90876339/222264378-43ba0d19-2173-4b61-91ff-53d2de38609c.mp4
 
 ## Links
 
 - Aplicação no Pycharm - [App Folder](https://github.com/lizmarques/Virtual_Assistant_Project/tree/master/VoiceBotProject)
 
 ## Objetivo
+
