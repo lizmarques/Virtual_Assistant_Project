@@ -13,13 +13,16 @@ https://user-images.githubusercontent.com/90876339/222264378-43ba0d19-2173-4b61-
 
 ## Objetivo
 
-O principal objetivo deste projeto foi ganhar familiaridade com as APIs de Speech Recognition e Text-to-Speech, além de desenvolver uma aplicação que funcionasse corretamente baseada em comandos de voz. Nesta primeira versão, a assistente virtual conta com 6 funcionalidades:
+O principal objetivo deste projeto foi ganhar familiaridade com as APIs de Speech Recognition e Text-to-Speech, além de desenvolver uma aplicação que funcionasse corretamente baseada em comandos de voz. Nesta primeira versão, a assistente virtual conta com 5 funcionalidades:
 - Agenda do Dia
 - Notícias
 - Bloco de Notas por Voz
 - Pesquisa no Google
 - Abrir o Microsoft Teams
-- Quem é a Ártemis (nome dado para assistente virtual)
+- Extra: Apresentação da Ártemis (nome dado para assistente virtual)
 
 
-
+ ## Próximos Passos
+- Aprimorar o tratamento de erros, ou seja, quando existem problemas de reconhecimento da fala
+- Implementar uma funcionalidade de Alarme, a qual permita que o usuário peça para assistente lembrá-lo de algo em determinado horário
+- Aprimorar a funcioanalidade de Bloco de Notas por Voz, permitindo que o usuário edite e/ou delete determinados conteúdos
